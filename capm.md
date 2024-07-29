@@ -1,20 +1,3 @@
----
-title: "ACTL1101 Assignment Part B"
-author: "William Brett"
-date: "2024 T2"
-output:
-  pdf_document: default
-  html_document:
-    df_print: paged
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-library(quantmod)
-library(ggplot2)
-library(tidyverse)
-```
-
 # CAPM Analysis
 
 ## Introduction
